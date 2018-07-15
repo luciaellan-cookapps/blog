@@ -1,17 +1,22 @@
 ---
 home: true
-heroImage: /hero.png
-actionText: Get Started →
-actionLink: /guide/
+heroImage: /home/icon.png
+actionText: Get Started
+actionLink: /devops/git/overview.md
+
 features:
-- title: Simplicity First
-  details: Minimal setup with markdown-centered project structure helps you focus on writing.
-- title: Vue-Powered
-  details: Enjoy the dev experience of Vue + webpack, use Vue components in markdown, and develop custom themes with Vue.
-- title: Performant
-  details: VuePress generates pre-rendered static HTML for each page, and runs as an SPA once a page is loaded.
-footer: MIT Licensed | Copyright © 2018-present Evan You
+- title: DevOps
+  details: 개발환경 관련 기술컬럼 연재. Git, NodeJS, CI/CD, DOCKER 등.
+- title: Infra
+  details: 협업인프라 관련 기술컬럼 연재. Agile, Trello, Asana, NAS 등. 
+- title: Life
+  details: 그외 소소한 이야기들 모음. 개발철학, 워라벨, 트랜드, 넋두리 등.
+
+
+
+
+footer: MIT Licensed | Copyright 2018. CookApps all rights reserved.
 ---
 
-# Hello VuePress
-오우 블로그좀 만들어본 놈인가!?
+
+<iframe width="100%" height="600" src="https://www.youtube.com/embed/IEjOJIncVXM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
