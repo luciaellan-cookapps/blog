@@ -3,4 +3,5 @@ cd docs/.vuepress/dist
 git init
 git add -A
 git commit -m 'deploy'
-git push -f https://github.com/cookappsio/cookappsio.github.io.git master 
+git push -f https://__GITHUB_TOKEN__@github.com/cookappsio/cookappsio.github.io.git master
+ 
