@@ -13,7 +13,7 @@ before_script:
 - git config --global user.email 'vuepressbot@cookapps.com'
 - sed -i "s/__GITHUB_TOKEN__/${__GITHUB_TOKEN__}/" depoly.sh
 script:
-- .\depoly.sh
+- bash depoly.sh
 notifications:
   email:
     on_success: never
