@@ -16,7 +16,9 @@ module.exports = {
           title: 'Git',
           collapsable: true,
           children: [
-            [ '/devops/git/overview.md', 'Overview']
+            [ '/devops/git/overview.md', 'Overview'],
+            [ '/devops/git/hosting.md', 'Hosting'],
+            [ '/devops/git/github.md', 'Github']
           ]
         },
         {

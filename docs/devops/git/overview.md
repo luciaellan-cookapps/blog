@@ -1,5 +1,4 @@
-## 누가 만들었나?
----
+## 제작자
 
 ![An image](./img/git-logo.png)
 
@@ -13,12 +12,14 @@
 
 ## 어디서 쓸까?
 ![An image](./img/git-using.png)
+![An image](./img/ci.png)\
+ㅠ.ㅠ
 
 더이상의 설명은 생략한다.
 
 
 
-## 어디에 쓸까?
+## 용도
 \
 ![An image](./img/git-model.png)
 (출처 : https://nvie.com/posts/a-successful-git-branching-model/)
@@ -49,16 +50,14 @@ GIT에서 파생된 모든 OPENSOURCE **생태계**를 쉽게 가져다 쓸수 �
 - NODEJS
 - DOCKER
 - CI/CD
-- 심지어 BLOG
-
 .\
 .\
 .\
 .\
 .
 
+이 블로그도 GIT 생태계를 통하여 만들었다.
 
-
-## 프로토콜
+## CLI 프로토콜
 직접 타이핑 할일은 거의 없지만 간단하게 알아두면 도움이 된다.\
 해당 내용은 [공식 문서](https://git-scm.com/book/ko/v1/Git-%EC%84%9C%EB%B2%84-%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C)로 대체.
