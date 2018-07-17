@@ -30,5 +30,3 @@ package.json 열어보면
 dependency가 걸려 있는것을 볼수 있다. 이게 내가 설치한 오픈소스이다. 1줄 썻는데 이만큼의 오픈소스 라이브러리가 같이 설치 된다.
 devdependency는 개발용으로만 쓰고 빌드시에는 포함시키지 않는다.
 npm install [package] -d 를 표시하면 됨
-
-#
